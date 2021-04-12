@@ -1,0 +1,17 @@
+.quotes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.header--quotes {
+    border: #F5E5FC solid 2px;
+    padding: 1rem;
+    margin: 6rem 0 2rem 0;
+}
+
+.quote {
+    border: #F5E5FC solid 2px;
+    padding: 1rem;
+    margin: 1 0.5rem;
+}
