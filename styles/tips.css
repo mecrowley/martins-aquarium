@@ -1,0 +1,15 @@
+.tips {
+    flex: 1;
+    background-color: #F5E5FC;
+    margin-left: 5rem;
+    padding: 2rem;
+}
+
+.innertips {
+    border: #48B8D0 solid 2px;
+    padding: 1rem;
+}
+
+.header--tips {
+    text-align: center;
+}

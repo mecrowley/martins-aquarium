@@ -1,0 +1,46 @@
+.header--fishes {
+    border: #F5E5FC solid 2px;
+    width: 88px;
+    padding: 1rem;
+}
+
+.fishes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #F5E5FC;
+    padding: 1rem;
+}
+
+.fish {
+    flex-basis: 16%;
+    margin: 1rem;
+}
+
+.fish__image {
+    max-height: 10rem;
+    margin: 0 0 0.75rem 0;
+}
+
+.fish__name {
+    margin: 1rem;
+    border: #48B8D0 solid 1px;
+    padding: 0.5rem;
+    margin: 0 0 0.5rem 0;
+}
+
+.fish__species {
+    text-align: center;
+}
+
+.fish__length {
+    text-align: center;
+}
+
+.fish__locations {
+    text-align: center;
+}
+
+.fish__food {
+    text-align: center;
+}
